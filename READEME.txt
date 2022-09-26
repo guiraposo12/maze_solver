@@ -1,1 +1,8 @@
+# maze_solver
+Encontra o menor caminho para um labirinto
+/* funções feitas como resolução de problemáticas sugeridas a partir de projeto feito durante o curso
+   de engenharia da computação <fundamentos de programação> */
+   ///
+/* o projeto consistia em criar um código que encontrasse o menor caminho de um labirinto matricial formado de
+   códigos de cor extraídos de uma imagem (procedimento 3C para 1C) */
 
